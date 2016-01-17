@@ -1,0 +1,13 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "jsdom": "^7.2.2"
+  },
+  "devDependencies": {},
+  "author": "Georgy Bunin",
+  "license": "ISC"
+}
